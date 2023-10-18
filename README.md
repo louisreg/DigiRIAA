@@ -4,6 +4,6 @@ A small and compact RIAA preamp with digital outputs
 
 
 
-## TODO:
+## TODO
   - Clean STM32 code (remove ST heavy HAL lib)
   - Remove TL072 buffer from PCB
