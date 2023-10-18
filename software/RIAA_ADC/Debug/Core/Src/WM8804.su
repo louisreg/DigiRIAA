@@ -1,0 +1,21 @@
+../Core/Src/WM8804.cpp:12:1:WM8804::WM8804(SPI_HandleTypeDef*, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	24	static
+../Core/Src/WM8804.cpp:31:6:void WM8804::SPIselect()	16	static
+../Core/Src/WM8804.cpp:35:6:void WM8804::SPIunselect()	16	static
+../Core/Src/WM8804.cpp:40:6:void WM8804::reset()	16	static
+../Core/Src/WM8804.cpp:44:6:void WM8804::enable()	16	static
+../Core/Src/WM8804.cpp:48:6:void WM8804::writeReg(uint8_t, uint8_t)	24	static
+../Core/Src/WM8804.cpp:58:9:uint8_t WM8804::readReg(uint8_t)	24	static
+../Core/Src/WM8804.cpp:68:9:uint8_t WM8804::setBit(uint8_t, uint8_t, uint8_t)	16	static
+../Core/Src/WM8804.cpp:74:9:uint8_t WM8804::clearBit(uint8_t, uint8_t, uint8_t)	16	static
+../Core/Src/WM8804.cpp:81:6:void WM8804::enableOSC(bool)	16	static
+../Core/Src/WM8804.cpp:89:6:void WM8804::enablePLL(bool)	16	static
+../Core/Src/WM8804.cpp:98:6:void WM8804::enableSpdifRX(bool)	16	static
+../Core/Src/WM8804.cpp:105:6:void WM8804::enableSpdifTX(bool)	16	static
+../Core/Src/WM8804.cpp:112:6:void WM8804::enableAIF(bool)	16	static
+../Core/Src/WM8804.cpp:119:6:void WM8804::setSpidfTX_src(uint8_t)	16	static
+../Core/Src/WM8804.cpp:126:6:void WM8804::AIF_MasterMode(bool)	16	static
+../Core/Src/WM8804.cpp:135:6:void WM8804::setFreqMode(uint8_t)	16	static
+../Core/Src/WM8804.cpp:141:6:void WM8804::enableMCLKDIV(bool)	16	static
+../Core/Src/WM8804.cpp:150:6:void WM8804::setAIFsize(uint8_t)	16	static
+../Core/Src/WM8804.cpp:156:6:void WM8804::setPLL(uint32_t, uint8_t)	24	static
+../Core/Src/WM8804.cpp:170:6:void WM8804::init()	16	static
