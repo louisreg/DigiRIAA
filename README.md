@@ -2,6 +2,8 @@
 A small and compact RIAA preamp with digital outputs
 blablabla + picture 
 
+![DigiRIAA Picture](./pictures/riaa_pcb.jpg)
+
 ## Description
 schematic etc
 
