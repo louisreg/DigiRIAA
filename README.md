@@ -12,5 +12,5 @@ schematic etc
 ## Measures
 
 ## TODO
-  - Get rid of STM32 HAL lib & add CMAKE etc. 
+  - Get rid of STM32 HAL lib, add CMAKE, clean etc. 
   - Remove TL072 buffer from PCB
