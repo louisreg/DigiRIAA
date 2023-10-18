@@ -1,9 +1,14 @@
 # DigiRIAA
 A small and compact RIAA preamp with digital outputs
+blablabla + picture 
 
+## Description
+schematic etc
 
+## PCB
 
+## Measures
 
 ## TODO
-  - Clean STM32 code (remove ST heavy HAL lib)
+  - Get rid of STM32 HAL lib & add CMAKE etc. 
   - Remove TL072 buffer from PCB
